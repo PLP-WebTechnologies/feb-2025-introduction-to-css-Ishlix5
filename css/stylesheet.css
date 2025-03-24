@@ -1,0 +1,24 @@
+h1 {
+    color: blue; /* Changes text color */
+    font-size: 36px; /* Increases font size */
+    text-align: center; /* Centers the text */
+    font-family: Arial, sans-serif; /* Changes font */
+    font-weight: bold; /* Makes text bold */
+}
+.Fm1{
+    color: rgb(60, 255, 0);
+    font-size: 24px;
+    text-align: center;
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+}
+img {
+    display: block; /* Centers the image */
+    margin-left: auto; /* Centers the image */
+    margin-right: auto; /* Centers the image */
+    width: 25%; /* Makes the image 50% of the width of the page */
+    height: 200%;
+}
+#ftitle{
+    text-align: center;
+}
